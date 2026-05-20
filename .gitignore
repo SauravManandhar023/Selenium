@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# TestNG
+test-output/
+
+# Allure
+allure-report/
+allure-results/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+*.jar
